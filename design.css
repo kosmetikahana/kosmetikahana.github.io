@@ -65,7 +65,7 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 .generalquad .generalbox img { height:auto; width:100%;}
 .generalcontent{ padding:0; position:relative; }
 
-.pagebox_left{ width:55%; float:left; margin-right:5%;}
+.pagebox_left{ width:55%; float:left; margin-right:5%; }
 .pagebox_right{ width:40%; float:right; padding:60px 0 40px;}
 .general_studio{ position:relative;}
 .general_studio h3{ font-size:33px; font-weight:600; color:#000000; position:relative; padding-bottom:25px; margin-bottom:35px;}
@@ -322,4 +322,4 @@ a,
 
 .one_img_column::after,
 #section-aboutme .one_third h3::after { border-color:#ff6f61; }
-#section-aboutme  ul.list-basic li {color: #000000;}
+#section-aboutme  ul.list-basic li {color: #ff6f61;}
