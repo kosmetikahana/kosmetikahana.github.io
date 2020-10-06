@@ -37,13 +37,13 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 .contactbox i{ float:left; margin:0 15px 0 0; line-height:28px; text-align:center; font-size:18px; color:#222;}
 
 .social-media a{ background-color:#f1f1f1; width:40px; height:40px; line-height:40px; border-radius:50%; text-align:center;  vertical-align:middle; display:inline-block; margin:0 5px 0 0; transition:0.6s; -moz-transition:0.6s; -webkit-transition:0.6s; -o-transition:0.6s; font-size:13px; color:#8b929d; }
-.social-media a:hover{ background-color:#ff6f61; color:#fff !important; }
+.social-media a:hover{ background-color:#A745D1; color:#fff !important; }
 .social-media br{ display:none;}
 
 .container{ width:1170px; margin:0 auto; position:relative;}
 
-.header{width:100%; box-sizing:border-box; position: relative; background-color:#fff }
-.mainmenu{ background-color: #ff6f61; position:relative; padding:0 40px; }
+.header{width:100%; box-sizing:border-box; position: relative; background-color:#ffffff; }
+.mainmenu{ background-color: #A745D1; position:relative; padding:0 40px; }
 .sitenav{ padding:0; z-index:9999; float:right; width:75%; text-align:right; text-transform:uppercase; }
 .sitenav ul { margin:0; padding:0; font-family:'Ubuntu', sans-serif; font-size:15px; font-weight:500; }
 .sitenav ul li{display:inline-block; position:relative;}
@@ -55,7 +55,7 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 .sitenav ul li:hover > ul{display:block; width:200px; position:absolute; left:0; text-align:left; }
 .sitenav ul li:hover ul li ul{display:none; position:relative;}
 .sitenav ul li:hover ul li:hover > ul{display:block; position:absolute; left:200px; top:0;}
-.sitenav ul li a:hover{ background-color:#fff; }
+.sitenav ul li a:hover{ background-color:#ffffff; }
 .sitenav ul li a:hover { background-color:#bf4b40; }
 
 #general{ padding:0 0 90px; z-index:9999; position:relative; }
@@ -83,7 +83,7 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 #section-services{ padding-bottom:0;}
 #section-services .subtitle{ padding:0 10%; margin-bottom:50px;}
 .sluzby-kategorie{ margin-bottom:40px; margin-top:20px; color:#555; position:relative;}
-.sluzby-kategorie .thumb{  float:right; margin:0 0 0 3%; background-color:#ff6f61; font-size:24px; color:#fff; width:75px; height:75px; line-height:75px; border-radius:50%; text-align:center;}
+.sluzby-kategorie .thumb{  float:right; margin:0 0 0 3%; background-color:#A745D1; font-size:24px; color:#fff; width:75px; height:75px; line-height:75px; border-radius:50%; text-align:center;}
 .sluzby-kategorie .thumb img{  width:53px; height:53px; line-height:53px; margin:10px auto;}
 .sluzby-kategorie .description{ width:70%;}
 .sluzby-kategorie h4{ font-size:22px; color:#000000; font-weight:600; margin-bottom:20px; text-transform:uppercase; position:relative; }
@@ -109,7 +109,7 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 .ceny{ position:relative; margin-bottom:32px; color:#fff;}
 .ceny h4{ font-size:24px; color:#fff; margin:0 0 10px; position:relative;}
 .ceny p{ color:#fff; margin:0;}
-.ceny h4 span{ font-size:24px !important; font-weight:bold; color:#ff6f61; float:right;}
+.ceny h4 span{ font-size:24px !important; font-weight:bold; color:#A745D1; float:right;}
 
 #section-aboutme {background-color:#1d1d1d; color: #ffffff;}
 #section-aboutme .subtitle{ font-weight:600; font-size:16px; text-align:left;}
@@ -118,11 +118,11 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 
 .photobox{ position:relative; text-align:center; width:300px; height:400px; display:block; overflow:hidden; margin:0 0 0 0; float:left;}
 .photobox img{ display:block;}
-.photobox i{ font-size:30px; position:absolute; text-align:center; color:#ffffff; background-color:#ff6f61; width:64px; height:64px; line-height:64px; left:0; right:0; margin:0 auto; top:42%;  -webkit-border-radius:100%; -moz-border-radius:100%;border-radius:100%;}
+.photobox i{ font-size:30px; position:absolute; text-align:center; color:#ffffff; background-color:#A745D1; width:64px; height:64px; line-height:64px; left:0; right:0; margin:0 auto; top:42%;  -webkit-border-radius:100%; -moz-border-radius:100%;border-radius:100%;}
 .photobox:hover i{ color:#575757; background:#ffffff;}
 .one_img_column{ width:300px; height:400px; margin:100px 0 0 20px; display:inline-block; position:relative;}
 .one_img_column img{ width:100%; height:100%; display:block;}
-.one_img_column::after{ border: 1px solid #ff6f61;top: -50px;content: "";right: 173px;margin: auto;position: absolute;width: 100%;height: 395px;z-index: -9;}
+.one_img_column::after{ border: 1px solid #A745D1;top: -50px;content: "";right: 173px;margin: auto;position: absolute;width: 100%;height: 395px;z-index: -9;}
 
 #footer-wrapper{ background-color:#0d0f10; position:relative; color:#c1c0c0; }
 .footer{ padding:75px 0; border-bottom:1px solid #252525;}
@@ -138,7 +138,7 @@ h2.section_title::after {border-bottom: 3px solid #111;bottom: 0;content: "";lef
 @media screen and (max-width:767px) {
 .left, .right{ float:none;}
 .container { width:auto; padding:0 20px;}
-.header{ padding:10px 0; position:relative; background-color:#111;}
+.header{ padding:10px 0; position:relative; background-color:#111111;}
 .header_right{ float:none; text-align:center; width:auto; }
 .headerinfo{ padding:10px 0;}
 .logo{ width:auto; float:none; text-align:center; padding:0; position:relative; left:0; right:0;}
@@ -241,7 +241,7 @@ section{ padding:40px 0;}
 .sitenav ul li:hover ul li ul, .sitenav ul li:hover ul li:hover > ul, .sitenav ul li:hover ul li:hover > ul li ul{  background: transparent !important; display:block; position:relative !important;  right:0; left:0; top:0;}
 .sitenav ul li:hover ul li:hover ul, .sitenav ul li:hover ul li:hover ul li:hover ul{ left:0 !important;}
 .logo img{ height:auto;}
-.header{  position:relative; background-color:#fff;}
+.header{  position:relative; background-color:#ffffff;}
 .mainmenu{  margin-bottom:0;}
 .mainmenu{ padding:0; border-radius:0;}
 #footer-wrapper{ background-size:cover !important;}
@@ -306,7 +306,7 @@ h6{ font-size:14px; }
 .offer-1-column .offimgbx,
 .sluzby-kategorie .thumb,
 .mainmenu,
-h2.section_title::after{ background-color: #ff6f61; }
+h2.section_title::after{ background-color: #A745D1; }
 
 a,
 .cntbutton,         
@@ -318,8 +318,8 @@ a,
 .sluzby-kategorie:hover h4,
 .ceny h4 span,
 .contactbox a:hover,
-.post-title a:hover { color: #ff6f61; }
+.post-title a:hover { color: #A745D1; }
 
 .one_img_column::after,
-#section-aboutme .one_third h3::after { border-color:#ff6f61; }
-#section-aboutme  ul.list-basic li {color: #ff6f61;}
+#section-aboutme .one_third h3::after { border-color:#A745D1; }
+#section-aboutme  ul.list-basic li {color: #A745D1;}
